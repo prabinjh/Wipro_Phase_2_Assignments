@@ -5,7 +5,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_microservices"/>
 	<classpathentry kind="src" path="src_employeesystem"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
